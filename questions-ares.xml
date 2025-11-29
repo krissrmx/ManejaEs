@@ -1,0 +1,1114 @@
+<?xml version="1.0"?>
+<questions>
+    <title>Examen Oficial de Práctica para Licencia de Conducir de Arkansas</title>
+
+    <description>
+La prueba de práctica genera 25 preguntas seleccionadas aleatoriamente de un grupo más grande, extraído del examen oficial de conocimientos de la Policía Estatal de Arkansas y del Manual Oficial del Conductor.
+
+El manual proporcionado por la Policía Estatal de Arkansas es la fuente fundamental y exclusiva de información necesaria para aprobar el examen escrito.
+
+Este cuestionario de práctica no sustituye el manual.
+
+Si el solicitante desea aprobar el examen oficial administrado por la policía estatal, es necesario leer el manual y comprender completamente las reglas de tránsito.
+
+Puedes repetir esta prueba de práctica tantas veces como quieras. Cada intento genera un nuevo conjunto de 25 preguntas.
+
+Al terminar, aparecerá una pantalla con tus resultados.
+    </description>
+
+    <notice>
+Este cuestionario es solo una herramienta de apoyo. Los solicitantes deben leer el manual oficial si desean aprobar el examen real.
+    </notice>
+
+    <categories>
+        <category count="122" test="25">General</category>
+        <category count="9" test="25">Spanish</category>
+        <category count="0" test="25">Spanish</category>
+        <category count="111" test="25">Spanish</category>
+    </categories>
+
+    <!-- PREGUNTA 1 -->
+    <question category="General" page="0" type="MC" text="El cuerpo elimina el alcohol a una velocidad de:">
+        <answers>
+            <answer correctAnswer="false">Dos bebidas por hora</answer>
+            <answer correctAnswer="false">Tres bebidas por hora</answer>
+            <answer correctAnswer="true">Una bebida por hora</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 2 -->
+    <question category="General" page="0" type="MC" text="La única señal de tránsito con forma octagonal es:">
+        <answers>
+            <answer correctAnswer="false">Señal reglamentaria</answer>
+            <answer correctAnswer="true">Señal de ALTO</answer>
+            <answer correctAnswer="false">Señal de advertencia</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 3 -->
+    <question category="General" page="0" type="MC" text="Las luces de estacionamiento solo pueden usarse:">
+        <answers>
+            <answer correctAnswer="true">Cuando el vehículo está estacionado</answer>
+            <answer correctAnswer="false">Al amanecer</answer>
+            <answer correctAnswer="false">Al conducir con nieve, lluvia o niebla</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 4 -->
+    <question category="General" page="0" type="MC" text="Los peatones que llevan un bastón blanco o usan un perro guía deben recibir:">
+        <answers>
+            <answer correctAnswer="false">Indicación verbal de cuándo cruzar</answer>
+            <answer correctAnswer="false">Derecho de paso solo con un dispositivo de control de tráfico</answer>
+            <answer correctAnswer="true">Derecho de paso absoluto</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 5 -->
+    <question category="General" page="0" type="MC" text="¿Cuál de los siguientes vehículos debe detenerse en un cruce de ferrocarril?">
+        <answers>
+            <answer correctAnswer="false">Ambulancia</answer>
+            <answer correctAnswer="true">Autobús escolar</answer>
+            <answer correctAnswer="false">Camión de bomberos</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 6 -->
+    <question category="General" page="0" type="MC" text="La única cosa que realmente reduce los efectos del alcohol es:">
+        <answers>
+            <answer correctAnswer="true">El tiempo</answer>
+            <answer correctAnswer="false">La comida</answer>
+            <answer correctAnswer="false">Dormir</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 7 -->
+    <question category="General" page="0" type="MC" text="La mayoría de los derrapes son causados por:">
+        <answers>
+            <answer correctAnswer="false">Conducir demasiado lento para las condiciones</answer>
+            <answer correctAnswer="false">Frenar bruscamente</answer>
+            <answer correctAnswer="true">Conducir demasiado rápido para las condiciones</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 8 -->
+    <question category="General" page="0" type="MC" img="66fa75cd.png" text="Esta señal indica:">
+        <answers>
+            <answer correctAnswer="false">Avión listo para despegar</answer>
+            <answer correctAnswer="false">Señal de ALTO más adelante</answer>
+            <answer correctAnswer="true">Trabajador dirigiendo el tráfico (banderillero)</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 9 -->
+    <question category="General" page="0" type="MC" img="681e2d2b.png" text="Esta señal significa:">
+        <answers>
+            <answer correctAnswer="true">Semáforo adelante</answer>
+            <answer correctAnswer="false">Semáforo de 4 vías</answer>
+            <answer correctAnswer="false">Rojo, amarillo y verde</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 10 -->
+    <question category="General" page="0" type="MC" text="Al acercarse a una señal de ALTO o línea de ALTO usted debe:">
+        <answers>
+            <answer correctAnswer="false">Detenerse sobre el cruce peatonal</answer>
+            <answer correctAnswer="true">Detenerse en la línea de alto, si está presente</answer>
+            <answer correctAnswer="false">Avanzar hasta poder ver alrededor de obstáculos</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 11 -->
+    <question category="General" page="0" type="MC" img="m2541664e.png" text="Esta señal significa:">
+        <answers>
+            <answer correctAnswer="false">No hay carril de vuelta</answer>
+            <answer correctAnswer="true">No dar vuelta a la izquierda</answer>
+            <answer correctAnswer="false">No hacer vuelta en U</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 12 -->
+    <question category="General" page="0" type="MC" text="Una flecha roja en un semáforo significa:">
+        <answers>
+            <answer correctAnswer="false">Puede girar después de detenerse completamente</answer>
+            <answer correctAnswer="true">No puede girar en la dirección de la flecha</answer>
+            <answer correctAnswer="false">Puede girar si no hay tráfico en sentido contrario</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 13 -->
+    <question category="General" page="0" type="MC" text="Una línea doble amarilla sólida en el centro de la carretera indica:">
+        <answers>
+            <answer correctAnswer="true">Está prohibido rebasar en ambas direcciones</answer>
+            <answer correctAnswer="false">Carril central para vueltas</answer>
+            <answer correctAnswer="false">No puede cruzarse para girar</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 14 -->
+    <question category="General" page="0" type="MC" text="Las llantas desgastadas pueden causar que su vehículo:">
+        <answers>
+            <answer correctAnswer="false">Se descontrole</answer>
+            <answer correctAnswer="false">Reviente</answer>
+            <answer correctAnswer="true">Hidroplanee</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 15 -->
+    <question category="General" page="0" type="MC" text="Ser un conductor seguro depende de:">
+        <answers>
+            <answer correctAnswer="false">Seguir instrucciones</answer>
+            <answer correctAnswer="false">Ganar experiencia</answer>
+            <answer correctAnswer="true">Estar alerta a su entorno</answer>
+        </answers>
+    </question>
+    <!-- PREGUNTA 16 -->
+    <question category="General" page="0" type="MC" text="La velocidad más segura para conducir en el tráfico es:">
+        <answers>
+            <answer correctAnswer="true">La misma velocidad que el flujo del tráfico</answer>
+            <answer correctAnswer="false">Más rápido que el flujo del tráfico</answer>
+            <answer correctAnswer="false">Más lento que el flujo del tráfico</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 17 -->
+    <question category="General" page="0" type="MC" text="Esta señal significa:">
+        <answers>
+            <answer correctAnswer="false">Curva adelante</answer>
+            <answer correctAnswer="true">Resbaloso cuando está mojado</answer>
+            <answer correctAnswer="false">Posibilidad de derrapes</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 18 -->
+    <question category="General" page="0" type="MC" text="Los tres tipos de distracciones son: cognitiva, visual y ____________________.">
+        <answers>
+            <answer correctAnswer="true">Manual</answer>
+            <answer correctAnswer="false">Física</answer>
+            <answer correctAnswer="false">Natural</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 19 -->
+    <question category="General" page="0" type="MC" text="Un borde de banqueta (guarnición) pintado de rojo indica:">
+        <answers>
+            <answer correctAnswer="false">Zona de carga</answer>
+            <answer correctAnswer="false">Zona de estacionamiento</answer>
+            <answer correctAnswer="true">Zona contra incendio (prohibido estacionarse)</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 20 -->
+    <question category="General" page="0" type="MC" text="¿Cuántas bebidas alcohólicas se necesitan para afectar su manera de conducir?">
+        <answers>
+            <answer correctAnswer="false">Tres</answer>
+            <answer correctAnswer="true">Una</answer>
+            <answer correctAnswer="false">Dos</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 21 -->
+    <question category="General" page="0" type="MC" text="Usted siempre debe estacionar su vehículo a más de 18 pulgadas de la banqueta (guarnición).">
+        <answers>
+            <answer explanation="Nunca debe estacionarse a más de 18 pulgadas de la banqueta/guarnición." correctAnswer="false">Verdadero</answer>
+            <answer correctAnswer="true">Falso</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 22 -->
+    <question category="General" page="0" type="MC" text="¿Cuándo puede un conductor girar a la derecha con la luz roja de un semáforo?">
+        <answers>
+            <answer correctAnswer="true">Después de detenerse y verificar que no haya tráfico en sentido opuesto</answer>
+            <answer correctAnswer="false">Tan pronto como se acerque a la luz</answer>
+            <answer correctAnswer="false">Después de ceder el paso sin detenerse por completo</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 23 -->
+    <question category="General" page="0" type="MC" text="Los niños deben ir asegurados en un asiento de seguridad infantil hasta:">
+        <answers>
+            <answer correctAnswer="false">5 años y 50 libras</answer>
+            <answer correctAnswer="false">4 años y 40 libras</answer>
+            <answer correctAnswer="true">6 años y 60 libras</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 24 -->
+    <question category="General" page="0" type="MC" text="Antes de empezar a conducir usted debe:">
+        <answers>
+            <answer correctAnswer="true">Revisar el espejo retrovisor</answer>
+            <answer correctAnswer="false">Probar la bocina</answer>
+            <answer correctAnswer="false">Nunca abrocharse el cinturón de seguridad</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 25 -->
+    <question category="General" page="0" type="MC" text="¿Cómo deben colocarse sus manos en el volante?">
+        <answers>
+            <answer correctAnswer="false">Arriba y abajo</answer>
+            <answer correctAnswer="true">En lados opuestos</answer>
+            <answer correctAnswer="false">Lado a lado en la parte inferior</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 26 -->
+    <question category="General" page="0" type="MC" text="Antes de cambiar de carril, usted solo debe revisar los espejos laterales.">
+        <answers>
+            <answer explanation="Los conductores deben revisar el espejo retrovisor, los espejos laterales y mirar por encima del hombro." correctAnswer="false">Verdadero</answer>
+            <answer correctAnswer="true">Falso</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 27 -->
+    <question category="General" page="0" type="MC" text="Usted no debe rebasar a otro vehículo si se encuentra a menos de 1/3 de milla de una curva o una colina.">
+        <answers>
+            <answer correctAnswer="true">Verdadero</answer>
+            <answer correctAnswer="false">Falso</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 28 -->
+    <question category="General" page="0" type="MC" text="¿Cuántos pies necesita para detenerse si viaja a 55 mph?">
+        <answers>
+            <answer correctAnswer="false">100 pies</answer>
+            <answer correctAnswer="false">525 pies</answer>
+            <answer correctAnswer="true">225 pies</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 29 -->
+    <question category="General" page="0" type="MC" text="Las señales de advertencia son:">
+        <answers>
+            <answer correctAnswer="false">Blancas y negras</answer>
+            <answer correctAnswer="true">Amarillas y negras</answer>
+            <answer correctAnswer="false">Rojas y blancas</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 30 -->
+    <question category="General" page="0" type="MC" text="¿Qué debe hacer si el motor se apaga mientras usted está manejando?">
+        <answers>
+            <answer correctAnswer="true">Sujetar firmemente el volante y salir de la carretera cuando sea seguro</answer>
+            <answer correctAnswer="false">Agarrar el volante y frenar con fuerza</answer>
+            <answer correctAnswer="false">Accionar el freno de emergencia y detener el vehículo en el carril</answer>
+        </answers>
+    </question>
+    <!-- PREGUNTA 31 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja por una carretera de dos carriles con tráfico viniendo de frente, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Mantener su vehículo cerca del centro de la carretera</answer>
+            <answer correctAnswer="false">Mantener su vehículo cerca de la línea central</answer>
+            <answer correctAnswer="true">Mantenerse tan a la derecha como sea seguro</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 32 -->
+    <question category="General" page="0" type="MC" text="¿En qué momento se considera ilegal estacionarse?">
+        <answers>
+            <answer correctAnswer="false">A 20 pies de un cruce peatonal</answer>
+            <answer correctAnswer="true">A 15 pies de un hidrante</answer>
+            <answer correctAnswer="false">En una entrada de vehículos</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 33 -->
+    <question category="General" page="0" type="MC" text="Una señal triangular apuntando hacia abajo significa:">
+        <answers>
+            <answer correctAnswer="true">Ceda el paso</answer>
+            <answer correctAnswer="false">Advertencia</answer>
+            <answer correctAnswer="false">Restricción</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 34 -->
+    <question category="General" page="0" type="MC" text="Cuando cambie de carril usted debe señalizar por lo menos ______ antes de moverse.">
+        <answers>
+            <answer correctAnswer="false">30 pies</answer>
+            <answer correctAnswer="false">50 pies</answer>
+            <answer correctAnswer="true">100 pies</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 35 -->
+    <question category="General" page="0" type="MC" text="Los conductores deben encender sus luces delanteras:">
+        <answers>
+            <answer correctAnswer="false">Una hora antes del amanecer</answer>
+            <answer correctAnswer="true">Media hora después de la puesta del sol</answer>
+            <answer correctAnswer="false">Solo en carreteras rurales</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 36 -->
+    <question category="General" page="0" type="MC" text="¿Cuál es el límite máximo de alcohol para un conductor menor de 21 años?">
+        <answers>
+            <answer correctAnswer="false">0.08%</answer>
+            <answer correctAnswer="true">0.02%</answer>
+            <answer correctAnswer="false">0.04%</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 37 -->
+    <question category="General" page="0" type="MC" text="¿Qué debe hacer si comienza a sentir sueño mientras maneja?">
+        <answers>
+            <answer correctAnswer="true">Detenerse en un lugar seguro y descansar</answer>
+            <answer correctAnswer="false">Encender la radio a todo volumen</answer>
+            <answer correctAnswer="false">Bajar la ventana para dejar entrar aire</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 38 -->
+    <question category="General" page="0" type="MC" text="Al aproximarse a una señal de cruce de ferrocarril sin barrera usted debe:">
+        <answers>
+            <answer correctAnswer="false">Cruzar rápidamente</answer>
+            <answer correctAnswer="false">Siempre detenerse por completo</answer>
+            <answer correctAnswer="true">Bajar la velocidad, mirar y escuchar</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 39 -->
+    <question category="General" page="0" type="MC" text="La distancia de frenado se incrementa por:">
+        <answers>
+            <answer correctAnswer="false">Conducir a una velocidad más baja</answer>
+            <answer correctAnswer="true">Carreteras mojadas o resbalosas</answer>
+            <answer correctAnswer="false">Llantas nuevas</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 40 -->
+    <question category="General" page="0" type="MC" img="m4fd4d5d2.png" text="Esta señal indica:">
+        <answers>
+            <answer correctAnswer="false">Curva cerrada adelante</answer>
+            <answer correctAnswer="true">Advertencia de ceder el paso adelante</answer>
+            <answer correctAnswer="false">Camino angosto adelante</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 41 -->
+    <question category="General" page="0" type="MC" text="Esta señal significa:">
+        <answers>
+            <answer correctAnswer="false">No rebasar</answer>
+            <answer correctAnswer="true">Colina adelante</answer>
+            <answer correctAnswer="false">Curva hacia la derecha</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 42 -->
+    <question category="General" page="0" type="MC" text="Mientras maneja usted debe mantener ambas manos en el volante a las posiciones de:">
+        <answers>
+            <answer correctAnswer="false">12 y 6</answer>
+            <answer correctAnswer="false">10 y 4</answer>
+            <answer correctAnswer="true">9 y 3</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 43 -->
+    <question category="General" page="0" type="MC" text="Después de estacionarse en una colina cuesta arriba con banqueta (guarnición), usted debe girar las llantas:">
+        <answers>
+            <answer correctAnswer="false">Hacia la banqueta</answer>
+            <answer correctAnswer="true">Lejos de la banqueta</answer>
+            <answer correctAnswer="false">Rectas hacia adelante</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 44 -->
+    <question category="General" page="0" type="MC" text="Un conductor debe encender sus luces delanteras cuando no pueda ver a vehículos a:">
+        <answers>
+            <answer correctAnswer="false">200 pies</answer>
+            <answer correctAnswer="false">300 pies</answer>
+            <answer correctAnswer="true">500 pies</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 45 -->
+    <question category="General" page="0" type="MC" text="Cuando dos vehículos llegan a una intersección sin señales al mismo tiempo, el derecho de paso lo tiene:">
+        <answers>
+            <answer correctAnswer="true">El vehículo a la derecha</answer>
+            <answer correctAnswer="false">El vehículo a la izquierda</answer>
+            <answer correctAnswer="false">El vehículo más rápido</answer>
+        </answers>
+    </question>
+    <!-- PREGUNTA 46 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja en una carretera con varios carriles, el carril más apropiado para usar es:">
+        <answers>
+            <answer correctAnswer="false">El carril izquierdo en todo momento</answer>
+            <answer correctAnswer="true">El carril derecho, salvo para rebasar</answer>
+            <answer correctAnswer="false">Cualquier carril sin importar el tráfico</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 47 -->
+    <question category="General" page="0" type="MC" text="Una señal en forma de rombo significa:">
+        <answers>
+            <answer correctAnswer="true">Advertencia</answer>
+            <answer correctAnswer="false">Reglamentaria</answer>
+            <answer correctAnswer="false">Ceda el paso</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 48 -->
+    <question category="General" page="0" type="MC" text="¿Cuál es la distancia mínima legal para detenerse frente a un autobús escolar con luces rojas parpadeando?">
+        <answers>
+            <answer correctAnswer="true">20 pies</answer>
+            <answer correctAnswer="false">10 pies</answer>
+            <answer correctAnswer="false">5 pies</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 49 -->
+    <question category="General" page="0" type="MC" text="Si un vehículo viene de frente invadiendo su carril, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Frenar y mantener su carril</answer>
+            <answer correctAnswer="true">Bajar la velocidad y moverse hacia la derecha</answer>
+            <answer correctAnswer="false">Acelerar para pasar más rápido</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 50 -->
+    <question category="General" page="0" type="MC" text="Si sus frenos fallan (no sirven), usted debe:">
+        <answers>
+            <answer correctAnswer="false">Apagar el motor inmediatamente</answer>
+            <answer correctAnswer="true">Bombear el pedal y usar el freno de emergencia si es necesario</answer>
+            <answer correctAnswer="false">Continuar manejando hasta encontrar mecánico</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 51 -->
+    <question category="General" page="0" type="MC" text="Cuando conduce detrás de una motocicleta, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Seguir muy de cerca</answer>
+            <answer correctAnswer="true">Aumentar la distancia de seguimiento</answer>
+            <answer correctAnswer="false">Mantener la misma distancia que a un carro</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 52 -->
+    <question category="General" page="0" type="MC" img="88eb0f26.png" text="Esta señal significa:">
+        <answers>
+            <answer correctAnswer="false">Puente angosto</answer>
+            <answer correctAnswer="true">Carretera resbalosa cuando está mojada</answer>
+            <answer correctAnswer="false">Curva peligrosa</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 53 -->
+    <question category="General" page="0" type="MC" text="Antes de entrar a una curva, la velocidad debe:">
+        <answers>
+            <answer correctAnswer="true">Reducirse antes de entrar</answer>
+            <answer correctAnswer="false">Aumentarse en la curva</answer>
+            <answer correctAnswer="false">Mantenerse igual</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 54 -->
+    <question category="General" page="0" type="MC" text="La distancia para detenerse depende de:">
+        <answers>
+            <answer correctAnswer="true">La velocidad y condición del camino</answer>
+            <answer correctAnswer="false">El color del vehículo</answer>
+            <answer correctAnswer="false">El clima únicamente</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 55 -->
+    <question category="General" page="0" type="MC" text="En condiciones de niebla, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Usar luces altas</answer>
+            <answer correctAnswer="true">Usar luces bajas</answer>
+            <answer correctAnswer="false">No usar luces</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 56 -->
+    <question category="General" page="0" type="MC" text="Cuando dos vehículos llegan a una intersección con señal de ALTO al mismo tiempo:">
+        <answers>
+            <answer correctAnswer="false">El vehículo más grande pasa primero</answer>
+            <answer correctAnswer="false">El más rápido pasa primero</answer>
+            <answer correctAnswer="true">El vehículo a la derecha pasa primero</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 57 -->
+    <question category="General" page="0" type="MC" text="Si va a girar, usted debe señalizar al menos:">
+        <answers>
+            <answer correctAnswer="false">50 pies antes</answer>
+            <answer correctAnswer="true">100 pies antes</answer>
+            <answer correctAnswer="false">150 pies antes</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 58 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja en agua profunda o acumulada, existe riesgo de:">
+        <answers>
+            <answer correctAnswer="false">Calentamiento del motor</answer>
+            <answer correctAnswer="true">Hidroplaneo</answer>
+            <answer correctAnswer="false">Mejor tracción</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 59 -->
+    <question category="General" page="0" type="MC" text="¿Qué acción es ilegal mientras maneja?">
+        <answers>
+            <answer correctAnswer="false">Escuchar música</answer>
+            <answer correctAnswer="true">Texting (enviar mensajes)</answer>
+            <answer correctAnswer="false">Hablar con pasajeros</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 60 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja en una zona escolar, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Reducir la velocidad y estar preparado para detenerse</answer>
+            <answer correctAnswer="false">Mantener su velocidad normal</answer>
+            <answer correctAnswer="false">Acelerar para salir rápido de la zona</answer>
+        </answers>
+    </question>
+    <!-- PREGUNTA 61 -->
+    <question category="General" page="0" type="MC" text="Si un vehículo está rebasando su auto en una carretera de dos carriles, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Acelerar para evitar que lo rebasen</answer>
+            <answer correctAnswer="false">Moverse al carril contrario</answer>
+            <answer correctAnswer="true">Mantener su posición y velocidad</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 62 -->
+    <question category="General" page="0" type="MC" text="La línea doble amarilla sólida en el centro de la carretera significa:">
+        <answers>
+            <answer correctAnswer="true">Rebasar está prohibido en ambas direcciones</answer>
+            <answer correctAnswer="false">Rebasar permitido en ambos sentidos</answer>
+            <answer correctAnswer="false">Solo puede rebasar para girar a la izquierda</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 63 -->
+    <question category="General" page="0" type="MC" img="4fcd916d.png" text="Esta señal indica:">
+        <answers>
+            <answer correctAnswer="false">Cruce escolar</answer>
+            <answer correctAnswer="true">Cruce de peatones</answer>
+            <answer correctAnswer="false">Zona de juego de niños</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 64 -->
+    <question category="General" page="0" type="MC" text="Antes de dar vuelta en una intersección, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Acelerar para evitar tráfico</answer>
+            <answer correctAnswer="true">Estar en el carril correcto y señalizar correctamente</answer>
+            <answer correctAnswer="false">Ignorar peatones si no hay semáforo</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 65 -->
+    <question category="General" page="0" type="MC" text="Los vehículos pesados o grandes pueden tener:">
+        <answers>
+            <answer correctAnswer="false">Mejor visibilidad</answer>
+            <answer correctAnswer="true">Puntos ciegos más grandes</answer>
+            <answer correctAnswer="false">Más maniobrabilidad</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 66 -->
+    <question category="General" page="0" type="MC" img="496f6306.png" text="Esta señal indica:">
+        <answers>
+            <answer correctAnswer="false">Un solo carril adelante</answer>
+            <answer correctAnswer="true">Se incorporan carriles (tráfico entrando)</answer>
+            <answer correctAnswer="false">Carretera angosta</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 67 -->
+    <question category="General" page="0" type="MC" text="En caminos mojados, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Reducir la velocidad</answer>
+            <answer correctAnswer="false">Mantener la misma velocidad</answer>
+            <answer correctAnswer="false">Usar luces altas</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 68 -->
+    <question category="General" page="0" type="MC" text="Cuando planea rebasar otro vehículo, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Ver claramente que el carril contrario está libre</answer>
+            <answer correctAnswer="false">Rebasar en curvas</answer>
+            <answer correctAnswer="false">Rebasar en la cima de una colina</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 69 -->
+    <question category="General" page="0" type="MC" text="Cuando un vehículo se acerca en sentido contrario con las luces altas encendidas, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Mirar directamente a las luces</answer>
+            <answer correctAnswer="false">Cerrar los ojos</answer>
+            <answer correctAnswer="true">Mirar ligeramente hacia la derecha del camino</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 70 -->
+    <question category="General" page="0" type="MC" img="19d4ce7d.png" text="Esta señal significa:">
+        <answers>
+            <answer correctAnswer="false">No rebasar</answer>
+            <answer correctAnswer="true">Puente angosto</answer>
+            <answer correctAnswer="false">Curva pronunciada</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 71 -->
+    <question category="General" page="0" type="MC" text="Si su vehículo comienza a patinar debido al hielo, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Acelerar</answer>
+            <answer correctAnswer="true">Girar suavemente en la dirección del patinaje</answer>
+            <answer correctAnswer="false">Frenar bruscamente</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 72 -->
+    <question category="General" page="0" type="MC" text="Si ve un peatón cruzando en un cruce sin luces ni señales, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Continuar porque usted tiene el derecho de paso</answer>
+            <answer correctAnswer="false">Acelerar para pasar primero</answer>
+            <answer correctAnswer="true">Detenerse y ceder el paso</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 73 -->
+    <question category="General" page="0" type="MC" text="Las señales reglamentarias usualmente son de color:">
+        <answers>
+            <answer correctAnswer="false">Amarillo</answer>
+            <answer correctAnswer="true">Blanco y negro</answer>
+            <answer correctAnswer="false">Naranja</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 74 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja de noche, usted debe usar luces bajas cuando:">
+        <answers>
+            <answer correctAnswer="false">No haya tráfico</answer>
+            <answer correctAnswer="false">Tenga prisa</answer>
+            <answer correctAnswer="true">Se acerque a otro vehículo</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 75 -->
+    <question category="General" page="0" type="MC" text="Si usted escucha una sirena acercándose, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Acelerar y apartarse</answer>
+            <answer correctAnswer="true">Moverse hacia la derecha y detenerse</answer>
+            <answer correctAnswer="false">Detenerse en el carril donde esté</answer>
+        </answers>
+    </question>
+    <!-- PREGUNTA 76 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja en una carretera de varios carriles y un vehículo más lento va en el carril izquierdo, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Seguirlo de cerca</answer>
+            <answer correctAnswer="true">Rebasar por la derecha si es seguro</answer>
+            <answer correctAnswer="false">Encender luces altas para que se mueva</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 77 -->
+    <question category="General" page="0" type="MC" text="¿Qué debe hacer antes de entrar a un estacionamiento en reversa?">
+        <answers>
+            <answer correctAnswer="false">Mirar solo por los espejos</answer>
+            <answer correctAnswer="true">Girar la cabeza y mirar por encima del hombro</answer>
+            <answer correctAnswer="false">Tocar el claxon por si hay peatones</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 78 -->
+    <question category="General" page="0" type="MC" text="Si su vehículo comienza a derrapar, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Frenar con fuerza</answer>
+            <answer correctAnswer="true">Girar suavemente en la dirección del derrape</answer>
+            <answer correctAnswer="false">Acelerar rápidamente</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 79 -->
+    <question category="General" page="0" type="MC" text="Cuando ve un letrero de 'Road Work Ahead' (trabajos en la carretera), usted debe:">
+        <answers>
+            <answer correctAnswer="true">Reducir la velocidad y estar alerta</answer>
+            <answer correctAnswer="false">Ignorar la señal si no ve trabajadores</answer>
+            <answer correctAnswer="false">Acelerar para pasar más rápido</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 80 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja en una rampa de salida de autopista y ve un límite de velocidad más bajo:">
+        <answers>
+            <answer correctAnswer="true">Debe reducir su velocidad</answer>
+            <answer correctAnswer="false">Debe ignorarlo</answer>
+            <answer correctAnswer="false">Debe mantener la velocidad de la autopista</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 81 -->
+    <question category="General" page="0" type="MC" text="Si ve una señal en forma de octágono, significa:">
+        <answers>
+            <answer correctAnswer="true">ALTO</answer>
+            <answer correctAnswer="false">Advertencia</answer>
+            <answer correctAnswer="false">No estacionar</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 82 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja bajo la lluvia, ¿qué neumáticos pierden tracción primero?">
+        <answers>
+            <answer correctAnswer="false">Los delanteros únicamente</answer>
+            <answer correctAnswer="true">Los de atrás primero</answer>
+            <answer correctAnswer="false">Todos al mismo tiempo</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 83 -->
+    <question category="General" page="0" type="MC" text="Si va a conducir en una autopista por un largo periodo, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Detenerse a descansar si se siente cansado</answer>
+            <answer correctAnswer="false">Acelerar para llegar más rápido</answer>
+            <answer correctAnswer="false">Conducir con una sola mano</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 84 -->
+    <question category="General" page="0" type="MC" text="Si usted llega a un semáforo en verde pero el tráfico está congestionado, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Pasar y detenerse en la intersección</answer>
+            <answer correctAnswer="true">Esperar hasta que pueda cruzar completamente</answer>
+            <answer correctAnswer="false">Tocar el claxon para avanzar</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 85 -->
+    <question category="General" page="0" type="MC" text="Los conductores deben tener cuidado con motociclistas porque:">
+        <answers>
+            <answer correctAnswer="true">Pueden ser difíciles de ver</answer>
+            <answer correctAnswer="false">Siempre manejan más rápido</answer>
+            <answer correctAnswer="false">No siguen las reglas</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 86 -->
+    <question category="General" page="0" type="MC" img="4321a46b.png" text="Esta señal indica:">
+        <answers>
+            <answer correctAnswer="false">Zona escolar</answer>
+            <answer correctAnswer="true">Cruce escolar</answer>
+            <answer correctAnswer="false">Resbaladizo</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 87 -->
+    <question category="General" page="0" type="MC" text="Si un vehículo está entrando a una autopista desde una rampa, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Acelerar para bloquearlo</answer>
+            <answer correctAnswer="true">Cambiar de carril si es posible o ajustar la velocidad para permitir la entrada</answer>
+            <answer correctAnswer="false">Tocar el claxon</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 88 -->
+    <question category="General" page="0" type="MC" text="Si ve una línea amarilla continua al lado de su carril significa:">
+        <answers>
+            <answer correctAnswer="true">No puede rebasar</answer>
+            <answer correctAnswer="false">Puede rebasar si no hay tráfico</answer>
+            <answer correctAnswer="false">Debe rebasar rápidamente</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 89 -->
+    <question category="General" page="0" type="MC" text="Si los frenos se calientan y dejan de funcionar correctamente, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Seguir acelerando</answer>
+            <answer correctAnswer="false">Apagar el motor inmediatamente</answer>
+            <answer correctAnswer="true">Dejar que se enfríen bajando la velocidad gradualmente</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 90 -->
+    <question category="General" page="0" type="MC" text="Si empieza a llover después de un periodo seco, las carreteras pueden ser:">
+        <answers>
+            <answer correctAnswer="false">Menos resbalosas</answer>
+            <answer correctAnswer="false">Sin cambio alguno</answer>
+            <answer correctAnswer="true">Muy resbalosas por los aceites en el pavimento</answer>
+        </answers>
+    </question>
+    <!-- PREGUNTA 91 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja de noche y se acerca un vehículo en sentido contrario con luces altas, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Mirar directo a las luces</answer>
+            <answer correctAnswer="false">Cerrar los ojos para evitar el brillo</answer>
+            <answer correctAnswer="true">Mirar ligeramente hacia la derecha de la carretera</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 92 -->
+    <question category="General" page="0" type="MC" text="¿Qué debe hacer si su vehículo sale del pavimento hacia el hombro de la carretera?">
+        <answers>
+            <answer correctAnswer="true">Reducir velocidad y regresar al carril cuando sea seguro</answer>
+            <answer correctAnswer="false">Girar bruscamente hacia el carril</answer>
+            <answer correctAnswer="false">Acelerar para reincorporarse rápido</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 93 -->
+    <question category="General" page="0" type="MC" text="Si otro conductor lo sigue muy de cerca (tailgating), usted debe:">
+        <answers>
+            <answer correctAnswer="false">Frenar de repente</answer>
+            <answer correctAnswer="true">Cambiar de carril o permitir que pase</answer>
+            <answer correctAnswer="false">Acelerar para que no lo alcance</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 94 -->
+    <question category="General" page="0" type="MC" text="Cuando un peatón está cruzando en un cruce con luz verde para usted, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Detenerse hasta que el peatón termine de cruzar</answer>
+            <answer correctAnswer="false">Avanzar lentamente</answer>
+            <answer correctAnswer="false">Tocar el claxon para advertirle</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 95 -->
+    <question category="General" page="0" type="MC" text="¿Qué debe hacer si su vehículo patina sobre agua (hidroplaneo)?">
+        <answers>
+            <answer correctAnswer="false">Frenar fuertemente</answer>
+            <answer correctAnswer="true">Soltar el acelerador y mantener el control del volante</answer>
+            <answer correctAnswer="false">Acelerar para recuperar tracción</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 96 -->
+    <question category="General" page="0" type="MC" text="Cuando un vehículo de emergencia con luces y sirena activadas se aproxima, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Detenerse en el carril donde esté</answer>
+            <answer correctAnswer="true">Moverse hacia la derecha y detenerse</answer>
+            <answer correctAnswer="false">Ignorar si está lejos</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 97 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja en nieve o hielo, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Aumentar la distancia entre vehículos</answer>
+            <answer correctAnswer="false">Usar luces altas</answer>
+            <answer correctAnswer="false">Mantener velocidad normal</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 98 -->
+    <question category="General" page="0" type="MC" text="¿Qué indica una línea blanca sólida al borde derecho del pavimento?">
+        <answers>
+            <answer correctAnswer="true">El borde del carril o del camino</answer>
+            <answer correctAnswer="false">Zona de rebase</answer>
+            <answer correctAnswer="false">Carril especial</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 99 -->
+    <question category="General" page="0" type="MC" img="b577b42b.png" text="Esta señal significa:">
+        <answers>
+            <answer correctAnswer="false">Curva pronunciada</answer>
+            <answer correctAnswer="false">Desviación obligatoria</answer>
+            <answer correctAnswer="true">Tráfico en ambas direcciones</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 100 -->
+    <question category="General" page="0" type="MC" text="Si sus luces delanteras fallan repentinamente, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Encender luces de emergencia y salir de la carretera</answer>
+            <answer correctAnswer="false">Seguir manejando despacio</answer>
+            <answer correctAnswer="false">Aumentar la velocidad para llegar a casa</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 101 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja en curvas, la mayor parte de tracción del vehículo se pierde por:">
+        <answers>
+            <answer correctAnswer="false">Demasiado aire en las llantas</answer>
+            <answer correctAnswer="true">Exceso de velocidad</answer>
+            <answer correctAnswer="false">Uso de luces bajas</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 102 -->
+    <question category="General" page="0" type="MC" text="Cuando un vehículo se acerca por detrás a alta velocidad, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Acelerar para igualarlo</answer>
+            <answer correctAnswer="true">Cambiar de carril si es seguro</answer>
+            <answer correctAnswer="false">Frenar de repente</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 103 -->
+    <question category="General" page="0" type="MC" text="Si un ciclista está en la carretera, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Dar al menos 3 pies de espacio al rebasarlo</answer>
+            <answer correctAnswer="false">Tocarle el claxon para advertirle</answer>
+            <answer correctAnswer="false">Rebasarlo muy cerca</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 104 -->
+    <question category="General" page="0" type="MC" text="Cuando el semáforo cambia a amarillo, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Acelerar para cruzar</answer>
+            <answer correctAnswer="true">Detenerse si es seguro hacerlo</answer>
+            <answer correctAnswer="false">Frenar abruptamente en cualquier situación</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 105 -->
+    <question category="General" page="0" type="MC" img="8f5a7fbb.png" text="Esta señal indica:">
+        <answers>
+            <answer correctAnswer="false">Inicio de carretera dividida</answer>
+            <answer correctAnswer="true">Fin de carretera dividida</answer>
+            <answer correctAnswer="false">Cruce de tráfico pesado</answer>
+        </answers>
+    </question>
+    <!-- PREGUNTA 106 -->
+    <question category="General" page="0" type="MC" text="Si la parte trasera de su vehículo comienza a deslizarse hacia la derecha, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Girar el volante hacia la izquierda</answer>
+            <answer correctAnswer="true">Girar el volante hacia la derecha</answer>
+            <answer correctAnswer="false">Frenar bruscamente</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 107 -->
+    <question category="General" page="0" type="MC" text="¿Qué debe hacer si su dirección se bloquea mientras maneja?">
+        <answers>
+            <answer correctAnswer="true">Soltar el acelerador y detenerse tan pronto como sea seguro</answer>
+            <answer correctAnswer="false">Seguir manejando lentamente</answer>
+            <answer correctAnswer="false">Acelerar para recuperar control</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 108 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja cuesta abajo, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Colocar la transmisión en neutral</answer>
+            <answer correctAnswer="true">Bajar la velocidad y usar una marcha baja</answer>
+            <answer correctAnswer="false">Acelerar para mantener control</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 109 -->
+    <question category="General" page="0" type="MC" text="Cuando un vehículo grande (camión) gira a la derecha, puede:">
+        <answers>
+            <answer correctAnswer="true">Necesitar más espacio y abrirse hacia la izquierda</answer>
+            <answer correctAnswer="false">Girar igual que un coche pequeño</answer>
+            <answer correctAnswer="false">Ir siempre recto sin invadir otros carriles</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 110 -->
+    <question category="General" page="0" type="MC" text="¿Qué debe hacer si sus frenos se mojan después de cruzar un charco profundo?">
+        <answers>
+            <answer correctAnswer="false">Acelerar para secarlos</answer>
+            <answer correctAnswer="true">Bombear ligeramente los frenos para restaurar su funcionamiento</answer>
+            <answer correctAnswer="false">Apagar el motor</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 111 -->
+    <question category="General" page="0" type="MC" img="8bef16b4.png" text="Esta señal significa:">
+        <answers>
+            <answer correctAnswer="false">Tráfico de una sola dirección</answer>
+            <answer correctAnswer="false">Curva ligera</answer>
+            <answer correctAnswer="true">Carretera sinuosa</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 112 -->
+    <question category="General" page="0" type="MC" text="Un conductor debe usar luces bajas cuando maneja:">
+        <answers>
+            <answer correctAnswer="false">En carreteras con buena iluminación</answer>
+            <answer correctAnswer="false">Solamente en autopistas</answer>
+            <answer correctAnswer="true">En condiciones de lluvia, nieve o niebla</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 113 -->
+    <question category="General" page="0" type="MC" text="Cuando maneja cerca de un ciclista, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Rebasarlo muy cerca para ahorrar espacio</answer>
+            <answer correctAnswer="true">Dejarle espacio suficiente de seguridad</answer>
+            <answer correctAnswer="false">Tocarle el claxon para que se mueva</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 114 -->
+    <question category="General" page="0" type="MC" text="Para evitar quedarse dormido al volante, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Bajar la ventana y respirar aire frío</answer>
+            <answer correctAnswer="true">Detenerse y descansar si es necesario</answer>
+            <answer correctAnswer="false">Escuchar música fuerte</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 115 -->
+    <question category="General" page="0" type="MC" text="Si va a girar a la izquierda en una intersección sin flecha verde, usted debe:">
+        <answers>
+            <answer correctAnswer="true">Ceder el paso al tráfico que viene de frente</answer>
+            <answer correctAnswer="false">Girar inmediatamente si tiene luz verde</answer>
+            <answer correctAnswer="false">Acelerar para cruzar rápido</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 116 -->
+    <question category="General" page="0" type="MC" text="Para controlar mejor el vehículo, las manos deben colocarse en:">
+        <answers>
+            <answer correctAnswer="false">10 y 2</answer>
+            <answer correctAnswer="false">8 y 4</answer>
+            <answer correctAnswer="true">9 y 3</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 117 -->
+    <question category="General" page="0" type="MC" text="Si una rueda sale del pavimento, usted debe:">
+        <answers>
+            <answer correctAnswer="false">Girar rápidamente hacia el carril</answer>
+            <answer correctAnswer="true">Sujetar el volante, reducir velocidad y regresar con cuidado</answer>
+            <answer correctAnswer="false">Frenar bruscamente</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 118 -->
+    <question category="General" page="0" type="MC" img="4c3be0a9.png" text="Esta señal indica:">
+        <answers>
+            <answer correctAnswer="false">Curva hacia la derecha</answer>
+            <answer correctAnswer="true">Camino estrecho adelante</answer>
+            <answer correctAnswer="false">Inicio de carretera dividida</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 119 -->
+    <question category="General" page="0" type="MC" text="Si un conductor está usando el teléfono mientras maneja, corre riesgo de:">
+        <answers>
+            <answer correctAnswer="false">Mayor concentración</answer>
+            <answer correctAnswer="false">Reacción más rápida</answer>
+            <answer correctAnswer="true">Ser distraído y causar un choque</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 120 -->
+    <question category="General" page="0" type="MC" text="El límite de velocidad en zonas escolares cuando los niños están presentes es generalmente:">
+        <answers>
+            <answer correctAnswer="false">35 mph</answer>
+            <answer correctAnswer="true">25 mph</answer>
+            <answer correctAnswer="false">40 mph</answer>
+        </answers>
+    </question>
+    <!-- PREGUNTA 121 -->
+    <question category="General" page="0" type="MC" text="¿Se me permite conducir solo hasta el centro de examen sin un conductor con licencia?">
+        <answers>
+            <answer explanation="Todos los solicitantes con un permiso de aprendiz deben ir acompañados por un conductor con licencia de veintiún (21) años o más." correctAnswer="false">Verdadero</answer>
+            <answer correctAnswer="true">Falso</answer>
+        </answers>
+    </question>
+
+    <!-- PREGUNTA 122 -->
+    <question category="General" page="0" type="MC" text="Una violación de cualquier ley puede resultar en una calificación reprobatoria en el examen práctico de manejo.">
+        <answers>
+            <answer correctAnswer="true">Verdadero</answer>
+            <answer correctAnswer="false">Falso</answer>
+        </answers>
+    </question>
+</questions>
